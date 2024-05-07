@@ -12,5 +12,5 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa* mhs = new mahasiswa{ 1 };
 }
