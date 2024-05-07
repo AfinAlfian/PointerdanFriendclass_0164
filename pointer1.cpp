@@ -15,4 +15,6 @@ int main()
 
 	mahasiswa& refMhs = mhs;
 	refMhs.nim = 2;
+
+	mahasiswa* pMhs = &mhs
 }
