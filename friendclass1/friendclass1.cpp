@@ -40,5 +40,6 @@ int main()
 {
     orang joko;
     joko.setNama("Joko Susilo");
+    siswa joko_siswa;
 }
 
