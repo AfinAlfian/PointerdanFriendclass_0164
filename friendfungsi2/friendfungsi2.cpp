@@ -7,6 +7,11 @@ public:
 	void showNilaipelajar(pelajar& x);
 };
 
+class pelajar {
+private:
+	int nilai;
+};
+
 int main()
 {
 	 
